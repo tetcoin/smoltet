@@ -1,8 +1,8 @@
-Lightweight Tetcore and Polkadot client.
+Lightweight Tetcore and Tetcoin client.
 
 # Introduction
 
-`smoldot` is a prototype of an alternative client of [Tetcore](https://github.com/tetcoin/tetcore)-based chains, including [Polkadot](https://github.com/paritytech/polkadot/).
+`smoltet` is a prototype of an alternative client of [Tetcore](https://github.com/tetcoin/tetcore)-based chains, including [Polkadot](https://github.com/paritytech/polkadot/).
 
 In order to simplify the code, two main design decisions have been made compared to Substrate:
 
